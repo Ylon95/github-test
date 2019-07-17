@@ -1,3 +1,7 @@
+# eclipse and idea file
+.idea
+.project
+
 # Compiled class file
 *.class
 
